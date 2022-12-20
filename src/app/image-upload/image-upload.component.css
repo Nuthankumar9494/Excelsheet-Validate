@@ -1,0 +1,14 @@
+.title {
+    background-color: #1A120B;
+    width: 100%;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+.blobData {
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+}
